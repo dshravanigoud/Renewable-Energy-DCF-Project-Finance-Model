@@ -105,9 +105,6 @@ A comprehensive **Discounted Cash Flow (DCF) and scenario-based financial model*
 | Interest Rate | 6.5% p.a. |
 | Corporate Tax Rate | 21% |
 | WACC | 8.2% |
-
-> *All assumptions are in the Inputs tab and can be modified independently. No hard-coded values exist within calculation sheets.*
-
 ---
 
 ## 🎭 Scenario Analysis
@@ -130,8 +127,6 @@ Scenarios are dynamically linked — switching between cases updates all outputs
 4. **Review outputs** on the `Dashboard` tab — IRR, NPV, DSCR, and Payback update automatically
 5. **Run scenarios** using the dropdown to toggle between Base / Upside / Downside
 6. **Sensitivity tables** are on the `Sensitivity` tab — vary two inputs simultaneously
-
-> ⚠️ Do not modify cells outside the blue input areas. Formula cells are locked to preserve model integrity.
 
 ---
 
